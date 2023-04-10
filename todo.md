@@ -4,9 +4,9 @@
 - [x] implement postcode normalization
 - [x] source street address abbreviations
 - [x] implement address normalization
-- [ ] implement city normalization
-- [ ] expand the address abbreviations
-- [ ] expand the address stopwords
+- [x] implement city normalization
+- [x] expand the address abbreviations
+- [x] expand the address stopwords
 - [ ] Names / Corporations ??
 - [ ] Convert function names and variables to be 'pythonic'
 
@@ -18,4 +18,4 @@
 - [ ] Upload to bitly
 
 ### For testing
-- [ ] Add Timings
+- [x] Add Timings
