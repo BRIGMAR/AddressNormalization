@@ -7,7 +7,9 @@
 - [x] implement city normalization
 - [x] expand the address abbreviations
 - [x] expand the address stopwords
-- [ ] Names / Corporations ??
+- [ ] Implement template [Name, Address]
+- [ ] Names / Corporations abbreviations
+- [ ] Names / Corporations Stopwords
 - [ ] Convert function names and variables to be 'pythonic'
 
 ### For record linkage
